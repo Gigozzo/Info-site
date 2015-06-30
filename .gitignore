@@ -1,2 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 *.pyc
+.idea/.name
+.idea/Info_site.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
