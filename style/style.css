@@ -1,0 +1,91 @@
+﻿#map-canvas {
+        width: 500px;
+        height: 400px;
+      }
+	  
+.phone {
+	background: url(images/glyphicons-443-earphone.png);
+	background-repeat: no-repeat;
+	font-size: 22px;
+	color: #402800;
+	padding: 0 0 0 30px;
+	margin: 10px;
+	float: right;
+}
+
+.tablehover{
+	cursor: pointer;
+	text-align: center;
+}
+
+.tablehover:hover{
+	color:#bdffff;
+}
+
+.pricerub{
+	text-align: center;
+	font-weight: 600;
+}
+
+.pricecolor{
+    background: #18bc9c;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	width: 550px;
+    height: 20px;
+    margin: 0 auto;
+}
+
+.pdf{
+	width: 900px;
+	height: 800px;
+	margin: 20px;
+}
+
+#pdf{
+	display: none;
+}
+
+.textindent{
+	margin-top: 100px;
+}
+
+.buttonindent{
+	margin-top: 10px;
+}
+
+.rightmenu{
+	background-color: aliceblue;
+}
+
+.maindiv{
+	/*margin-top: 100px;*/
+	background-color: rgb(146, 119, 100);
+}
+
+.photodiv{
+	margin: 10px auto;
+	overflow: hidden;
+}
+
+a{
+	color: black;
+}
+
+.navbardiv{
+	background-color: white;
+}
+
+.footerdiv{
+	background-color: black;
+	margin-top: 10px;
+	color: white;
+}
+
+.navbar-brand-margin{
+	margin-bottom: 10px;
+}
+
+.textcolor{
+	color: black !important;
+}
